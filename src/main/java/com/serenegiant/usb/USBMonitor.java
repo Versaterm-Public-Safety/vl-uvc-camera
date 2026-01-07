@@ -62,7 +62,7 @@ public final class USBMonitor {
 
 	private static final String ACTION_USB_PERMISSION_BASE = "com.serenegiant.USB_PERMISSION.";
 	private final String ACTION_USB_PERMISSION = ACTION_USB_PERMISSION_BASE + hashCode();
-	private static final String VL_INTERNAL_PERMISSION = "com.ucm.camera.INTERNAL_PERMISSION";
+	private static final String VL_INTERNAL_PERMISSION = "com.versaterm.capture.INTERNAL_PERMISSION";
 	private static final String UNKNOWN_SERIAL = "Unknown Serial Number";
 
 	public static final String ACTION_USB_DEVICE_ATTACHED = "android.hardware.usb.action.USB_DEVICE_ATTACHED";
